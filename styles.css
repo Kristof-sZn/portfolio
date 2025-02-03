@@ -276,6 +276,7 @@ html {
     background-color: #4CAF50; /* Couleur de la barre */
     border-radius: 5px;
     transition: width 0.3s ease; /* Animation fluide */
+    text-align: center;
 }
 /*Fin barre de progression*/
 
